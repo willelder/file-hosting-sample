@@ -4,6 +4,7 @@
   src:  url('fonts/icomoon.eot?5myen4#iefix') format('embedded-opentype'),
     url('fonts/icomoon.ttf?5myen4') format('truetype'),
     url('fonts/icomoon.woff?5myen4') format('woff'),
+    url('fonts/icomoon.woff2') format('woff'),
     url('fonts/icomoon.svg?5myen4#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
