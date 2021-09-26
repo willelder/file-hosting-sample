@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'icomoon';
-  src: url('https://github.com/willelder/file-hosting-sample/blob/main/icon-fonts/fonts/icomoon.woff?raw=true') format('woff'),
-    url('https://github.com/willelder/file-hosting-sample/blob/main/icon-fonts/fonts/icomoon.woff2?raw=true') format('woff');
+  src: url('https://raw.githubusercontent.com/willelder/file-hosting-sample/blob/main/icon-fonts/fonts/icomoon.woff') format('woff'),
+    url('https://raw.githubusercontent.com/willelder/file-hosting-sample/blob/main/icon-fonts/fonts/icomoon.woff2') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: block;
